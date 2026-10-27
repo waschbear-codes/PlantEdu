@@ -1,0 +1,2401 @@
+[
+    {
+        "id": "1", 
+        "de" : "Gemeine Eberesche", 
+        "la": "Sorbus aucaparia", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "2", 
+        "de" : "Südchinesische Magnolie", 
+        "la": "Magnolia soulangiana", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "3", 
+        "de" : "Schwarzkiefer", 
+        "la": "Pinus nigra", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "4", 
+        "de" : "Rosa Zwergspiere", 
+        "la": "Spiraea japonica", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "5", 
+        "de" : "Sonnenhut", 
+        "la": "Rudbckia fulgida", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "6", 
+        "de" : "Zierapfel", 
+        "la": "Malus Hybriden", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, {
+        "id": "7", 
+        "de" : "Korkflügelstrauch", 
+        "la": "Euonymus alatus", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "8", 
+        "de" : "Fächerblattbaum ", 
+        "la": "Ginkgo biloba", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "9", 
+        "de" : "Böschungsmyte", 
+        "la": "Lonicera pileata", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "10", 
+        "de" : "Rauhblattaster", 
+        "la": "Aster navae-angliae", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "11", 
+        "de" : "Roßkastanie", 
+        "la": "Aesculus hippocastanum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "12", 
+        "de" : "Duftschneeball", 
+        "la": "Viburnum fragans", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "13", 
+        "de" : "Douglasie", 
+        "la": "Pseudotsuga menziesii", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "14", 
+        "de" : "Immergrüne Kriechspindel", 
+        "la": "Euonymus fortunai var. Radicans", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "15", 
+        "de" : "Wiesenmargerite", 
+        "la": "Leucanthemum vulgare", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "16", 
+        "de" : "Gewöhnliche Esche", 
+        "la": "Fraxinus excelsior", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "17", 
+        "de" : "Buchsbaum", 
+        "la": "Buxus sempervirens", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "18", 
+        "de" : "Europäische Lärche", 
+        "la": "Larix decidua", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "19", 
+        "de" : "Schattengrün", 
+        "la": "Pachysandra terminalis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Dickmännchen", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "20", 
+        "de" : "Christrose", 
+        "la": "Helleborus niger", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "21", 
+        "de" : "Stieleiche", 
+        "la": "Quercus robur", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "22", 
+        "de" : "Gelber Winterjasmin", 
+        "la": "Jasminum nudiflorum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "23", 
+        "de" : "Bergkiefer", 
+        "la": "Pinus mugo", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "24", 
+        "de" : "Immergrüne Kriechmispel", 
+        "la": "Cotoneaster dammeri", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "25", 
+        "de" : "Elfenblume ", 
+        "la": "Epidemium perralchium", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "26", 
+        "de" : "Rotbuche", 
+        "la": "Fagus sylvatica", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "27", 
+        "de" : "Lichtmesszaubernuss", 
+        "la": "Hamamelis mollis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "28", 
+        "de" : "Gemeine Eibe", 
+        "la": "Taxus baccata", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "29", 
+        "de" : "Kleines Immergrün", 
+        "la": "Vinca minor", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "30", 
+        "de" : "Bergenie", 
+        "la": "Bergenia Hybriden", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "31", 
+        "de" : "Hainbuche", 
+        "la": "Carpinus betulus", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "32", 
+        "de" : "Kornelkirsche", 
+        "la": "Cornus mas", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "33", 
+        "de" : "Kanadische Hemlocktanne", 
+        "la": "Tsuga canadensis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "34", 
+        "de" : "Gemeiner Efeu", 
+        "la": "Hedera helix", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "35", 
+        "de" : "Märzenbecher", 
+        "la": "Leucojum vernum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "36", 
+        "de" : "Spitzahorn", 
+        "la": "Acer platanoides", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "37", 
+        "de" : "Goldglöckchen", 
+        "la": "Forsythia intermedia", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "38", 
+        "de" : "Serbische Fichte", 
+        "la": "Picea omorica", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "39", 
+        "de" : "Niedriges Johanneskraut", 
+        "la": "Hypericum calycinum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "40", 
+        "de" : "Stängelloser Enzian", 
+        "la": "Gentiana acaulis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "41", 
+        "de" : "Sandbirke", 
+        "la": "Betula pendula", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "42", 
+        "de" : "Kanadische Felsenbirne", 
+        "la": "Amelanchier canadensis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "43", 
+        "de" : "Nordmanntanne", 
+        "la": "Abies normanniana", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "44", 
+        "de" : "Niedrige Kranzspiere", 
+        "la": "Stephanandra incisa", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "45", 
+        "de" : "Europäische Trollblume", 
+        "la": "Trollius europaeus", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "46", 
+        "de" : "Winterlinde", 
+        "la": "Tilia cordata", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "47", 
+        "de" : "Kolkwitzie", 
+        "la": "Kolkwitzia amabilis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Perlmuttstrauch", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "48", 
+        "de" : "Gemeiner Wacholder", 
+        "la": "Juniperus communis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "49", 
+        "de" : "Niedrige Purpurbeere", 
+        "la": "Symphoricarpos chenaultii", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "50", 
+        "de" : "Balkanstorchenschnabel", 
+        "la": "Geranium macrorrhizum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "51", 
+        "de" : "Scheinakazie", 
+        "la": "Robinia pseudoacacia", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Robinie", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "52", 
+        "de" : "Brautspiere", 
+        "la": "Spiraea arguta", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "53", 
+        "de" : "Abendländischer Lebensbaum", 
+        "la": "Thuja occidentalis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "54", 
+        "de" : "Gemeines Heidekraut", 
+        "la": "Calluna vulgaris", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "55", 
+        "de" : "Prachtspiere", 
+        "la": "Astilbe arendsii-Hybriden", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "56", 
+        "de" : "Trompetenbaum", 
+        "la": "Catalpa bognonioides", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "57", 
+        "de" : "Garteneibisch", 
+        "la": "Hibiscus syriacus", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "58", 
+        "de" : "Scheinzypresse", 
+        "la": "Chamaecyparis lawsoniana", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "59", 
+        "de" : "Fünffingerstrauch", 
+        "la": "Potentilla fruticosa", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "60", 
+        "de" : "Chinaschilf", 
+        "la": "Miscanthus sinesis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "61", 
+        "de" : "Platane", 
+        "la": "Platanus x hispanica", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "62", 
+        "de" : "Schwarzer Holunder", 
+        "la": "Sambucus nigra", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "63", 
+        "de" : "Kalifornischer Mammutbaum", 
+        "la": "Sequoiadendron giganteum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "64", 
+        "de" : "Frauenmantel", 
+        "la": "Alchemilla mollis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "65", 
+        "de": "Schling-Knöterich", 
+        "la": "Fallopa baldschuanica", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Kletter-Knöterich", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "66", 
+        "de": "Eschen-Ahorn", 
+        "la": "Acer negundo", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "67", 
+        "de": "Pfaffenhütchen", 
+        "la": "Euonymus europaeus", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "68", 
+        "de": "Feuerdorn", 
+        "la": "Pyracantha coccinea", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "69", 
+        "de": "Fetthenne", 
+        "la": "Sedum Telephium - Hybride", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "70", 
+        "de": "Wilder Wein", 
+        "la": "Partenocissus tricuspidata", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Jungfernrebe", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "71", 
+        "de": "Italienische Säulen-Pappel", 
+        "la": "Populus nigra", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "72", 
+        "de": "Sanddorn", 
+        "la": "Hippophae rhamnoides", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "73", 
+        "de": "Gemeine Kiefer", 
+        "la": "Pinus sylvestris", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Wald-Kiefer", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "74", 
+        "de": "Lampenputzergras", 
+        "la": "Pennisetum alopecuroides", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "75", 
+        "de": "Kriechender Günsel", 
+        "la": "Ajuga reptans", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "76", 
+        "de": "Apfeldorn", 
+        "la": "Crataegus lavallei", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "77", 
+        "de": "Korkenzieher-Hasel", 
+        "la": "Corylus avellana", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "78", 
+        "de": "Korea-Tanne", 
+        "la": "Abies koreana", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "79", 
+        "de": "Gold-Fetthenne", 
+        "la": "Sedum floriferum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "80", 
+        "de": "Gemeiner Wurmfarn", 
+        "la": "Dryopteris filix-mas", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "81", 
+        "de": "Schwarz-Erle", 
+        "la": "Alnus glutinosa", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "82", 
+        "de": "Schwarzgrüner Liguster", 
+        "la": "Ligustrum vulgare", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "83", 
+        "de": "Kirschlorbeer", 
+        "la": "Prunus lauocerasus", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "84", 
+        "de": "Wald-Marbel", 
+        "la": "Luzula sylvatica", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Hainsimse", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "85", 
+        "de": "Wintergrünes Geißblatt", 
+        "la": "Lonicera henryl", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "86", 
+        "de": "Sal-Weide", 
+        "la": "Salix caprea", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "87", 
+        "de": "Gemeine Hasel", 
+        "la": "Corylus avallana", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "87", 
+        "de": "Gewöhnliche Stechpalme", 
+        "la": "Ilex aquifolium", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "88", 
+        "de": "Waldsteinie", 
+        "la": "Waldsteinia ternata", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Golderdbeere", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "89", 
+        "de": "Kaukasusvergissmeinnicht", 
+        "la": "Brunnera macrophylla", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "90", 
+        "de": "Vogelkirsche", 
+        "la": "Prunus avium", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "91", 
+        "de": "Blutroter Hartriegel", 
+        "la": "Cornus sanguinea", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "92", 
+        "de": "Blautanne", 
+        "la": "Picea alpinum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "93", 
+        "de": "Alpen-Johannisbeere", 
+        "la": "Ribes alpinum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "94", 
+        "de": "Blaukissen", 
+        "la": "Aubretia Cultivars", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "95", 
+        "de": "Feldahorn", 
+        "la": "Acer campestre", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "95", 
+        "de": "Schlehe", 
+        "la": "Prunus spinosa", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "96", 
+        "de": "Mahonie", 
+        "la": "Mahonia aquifolium", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "97", 
+        "de": "Scheinquitte", 
+        "la": "Chaenomeles x superba", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Zierquitte", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "98", 
+        "de": "Feuergeißschlinge", 
+        "la": "Lonicera x heckrottii", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "99", 
+        "de": "Gewöhnlicher Flieder", 
+        "la": "Syringa vulgaris", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "100", 
+        "de": "Pracht-Spiere", 
+        "la": "Spiraea x vanhouttei", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "101", 
+        "de": "Rohdodendron", 
+        "la": "Rhododendron Cultivars", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "102", 
+        "de": "Bartblume", 
+        "la": "Caryopteris x clandonensis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "103", 
+        "de": "Chinesischer Blauregen", 
+        "la": "Wisteria sinensis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "104", 
+        "de": "Sommerlinde", 
+        "la": "Tilia platyphyllos", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "105", 
+        "de": "Gewöhnlicher Goldregen", 
+        "la": "Lauubrnum anagyroides", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "106", 
+        "de": "Runzelblättriger Schneeball", 
+        "la": "Viburnum rhytidophyllum", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "107", 
+        "de": "Zierliche Deutzie", 
+        "la": "Deutzia grazilis", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "108", 
+        "de": "Kletterhortensie", 
+        "la": "Hydrangea anomala subspecies patiolaris", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "109", 
+        "de": "Berg-Ahorn", 
+        "la": "Acer pseudoplatanus", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "110", 
+        "de": "Hunds-Rose", 
+        "la": "Rosa canina", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "111", 
+        "de": "Grüner Pfitzer-Wacholder", 
+        "la": "Juniperus x pfitzerlana", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "112", 
+        "de": "Hortensie", 
+        "la": "Hydrangea macrophylla", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "113", 
+        "de": "Waldrebe", 
+        "la": "Clematis Cultivars", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "Clematis", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "114", 
+        "de": "Blut-Pflaume", 
+        "la": "Prunus ceasifera", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "115", 
+        "de": "Sommerflieder", 
+        "la": "Buddleja davidii", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "116", 
+        "de": "Zuckerhut-Fichte", 
+        "la": "Picea glauca", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "117", 
+        "de": "Apfel-Rose", 
+        "la": "Rosa rugosa", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }, 
+    {
+        "id": "118", 
+        "de": "Lavendel", 
+        "la": "Lavendula angustifolia", 
+        "images": [
+            "", 
+            "", 
+            ""
+        ],
+        "de-variants": [
+            "", 
+            "", 
+            ""
+        ],
+        "la_wrong": [
+            "", 
+            "", 
+            ""
+        ]
+    }
+]

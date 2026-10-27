@@ -1,5 +1,9 @@
 :root {
     --bg: #f6f4ef;
+    --glow:
+        radial-gradient(circle at 15% 20%, rgba(181, 121, 114, .22), transparent 40%),
+        radial-gradient(circle at 85% 30%, rgba(229, 177, 105, .25), transparent 45%),
+        radial-gradient(circle at 50% 90%, rgba(80, 192, 143, .20), transparent 50%);
     --surface: #ffffff;
     --text: #1d1b18;
     --muted: #6b665e;
@@ -13,13 +17,17 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: #141311;
+        --bg: #171014;
+        --glow:
+            radial-gradient(circle at 15% 20%, rgba(181, 121, 114, 0.18), transparent 40%),
+            radial-gradient(circle at 85% 30%, rgba(229, 177, 105, 0.2), transparent 45%),
+            radial-gradient(circle at 50% 90%, rgba(80, 192, 143, 0.18), transparent 50%);
         --surface: #1d1c19;
         --text: #f2efe8;
         --muted: #a09a8e;
         --line: #2e2c27;
         --easy: #46c28d;
-        --mid: #e8efe3;
+        --mid: #d98a1f;
         --hard: #f06a5f;
         --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.35);
     }
@@ -28,7 +36,8 @@
 * { box-sizing: border-box; margin: 0; }
 
 body {
-    background: var(--bg);
+    background: var(--glow), var(--bg);
+    background-attachment: fixed;
     color: var(--text);
     font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
     line-height: 1.55;
@@ -85,3 +94,160 @@ footer {
 }
 
 main { flex: 1; }
+
+@media (max-width: 860px) {
+    .cards { 
+        grid-template-columns: 1fr; 
+    }
+    .hero { 
+        padding: 36px 0 30px; 
+    }
+    nav { 
+        display: none; 
+    }
+}
+
+@media (max-width: 860px) {
+    .cards { grid-template-columns: 1fr; }
+    .hero { padding: 36px 0 30px; }
+    nav { display: none; }
+  }
+
+@media (prefers-reduced-motion: reduce) { .card, .cta span { transition: none; } }
+
+h1 { font-size: clamp(1.7rem, 6vw, 4rem); line-height: 1.05; letter-spacing: -.035em; font-weight: 800; }
+
+    h1 span {
+        color: var(--easy); 
+    }
+  
+.hero { 
+    text-align: center; 
+    padding: 56px 0 44px; 
+}
+
+    .hero p { 
+        color: var(--muted); 
+        font-size: 1.12rem; 
+        max-width: 560px; 
+        margin: 20px auto 0; 
+    }
+
+.cards { 
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 20px; 
+    padding-bottom: 72px; 
+}
+  
+.card {
+    position: relative; 
+    background: var(--surface); 
+    border-radius: var(--radius);
+    padding: 28px 26px 26px; 
+    box-shadow: var(--shadow); 
+    text-decoration: none; 
+    color: inherit;
+    display: flex; 
+    flex-direction: column; 
+    overflow: hidden;
+    transition: transform .2s ease, border-color .2s ease;
+    border: 4px solid var(--line); 
+    --accent: var(--easy);
+  }
+  
+    .card:focus-visible {
+        box-shadow: 0 0 0 3px var(--line); 
+    }
+  
+    .card.mid { 
+        border: 3px solid var(--line); 
+        --accent: var(--mid);
+    }
+  
+    .card.hard { 
+        border: 3px solid var(--line); 
+        --accent: var(--hard);
+    }
+
+    .card h2 { 
+        font-size: 1.6rem; 
+        letter-spacing: -.02em; 
+        margin-bottom: 10px; 
+    }
+  
+    .card p { 
+        color: var(--muted); 
+        font-size: .98rem; 
+    }
+
+    .card ul { 
+        list-style: none; 
+        padding: 0; 
+        margin: 18px 0 26px; 
+        font-size: .93rem; 
+    }
+
+    .card li { 
+        padding: 7px 0; 
+        border-top: 1px solid var(--line); 
+        display: flex; gap: 10px; 
+    }
+
+    .card li::before { 
+        content: "•"; 
+        color: var(--accent); 
+        font-weight: 800; 
+    }
+
+    .card:hover .lvl-click span { 
+        transform: translateX(5px); 
+    }
+
+    .card:hover, .card:focus-visible { 
+        transform: translateY(-6px); 
+        outline: none; 
+        border: 4px solid var(--accent); 
+    }
+  
+.lvl { 
+    display: flex; 
+    align-items: center;
+    gap: 6px; 
+    margin-bottom: 18px; 
+}
+
+    .lvl h2 {
+        margin-bottom: 0;
+    }
+
+    .lvl-click {
+        margin-top: auto; 
+        display: inline-flex; 
+        align-items: center; 
+        justify-content: space-between;
+        background: var(--accent); 
+        color: #fff; 
+        font-weight: 700; 
+        padding: 13px 18px; 
+        border-radius: 12px;
+    }
+    
+        .lvl-click span { 
+            transition: transform .2s ease; 
+        }
+
+.leaves {
+    margin-left: auto;   /* schiebt die Blätter nach rechts */
+    display: flex;
+    gap: 4px;            /* gleicher Abstand zwischen allen Blättern */
+}
+
+.leaf { 
+    color: var(--line); 
+    font-size: 1.5em; 
+}
+  
+    .leaf.on { 
+        color: var(--accent); 
+    }
